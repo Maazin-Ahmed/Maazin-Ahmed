@@ -15,17 +15,14 @@
 
 ### 📫 Connect with me
 
-<a href="https://instagram.com/YOUR_USERNAME" target="_blank">
+<a href="https://instagram.com/maazin.ahmedd" target="_blank">
   <img align="center" src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/maazin-ahmed-54117623a/" target="_blank">
   <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
 </a>
 <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
   <img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/>
-</a>
-<a href="https://yourwebsite.com" target="_blank">
-  <img align="center" src="https://img.icons8.com/fluency/48/000000/domain.png" alt="Website"/>
 </a>
 
 
