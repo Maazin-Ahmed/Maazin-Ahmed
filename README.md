@@ -7,29 +7,38 @@
 - 💬 Ask me about **DevOps, CI/CD, React, or Cloud**
 - ⚡ Fun fact: I love building tools that save people time!
 
+---
+
 ## 🛠️ Skills
 
 ### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+<p>
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"/>
+  <img src="https://img.icons8.com/fluency/48/000000/bash.png" alt="Bash"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
+</p>
 
 ### ⚙️ Frameworks & Tools
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+<p>
+  <img src="https://img.icons8.com/officel/48/000000/react.png" alt="React"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express"/>
+  <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes"/>
+  <img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins"/>
+  <img src="https://img.icons8.com/glyph-neue/48/000000/github.png" alt="GitHub Actions"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS"/>
+  <img src="https://img.icons8.com/color/48/000000/azure-1.png" alt="Azure"/>
+</p>
 
 ### 🖥️ Operating Systems
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+<p>
+  <img src="https://img.icons8.com/color/48/000000/ubuntu--v1.png" alt="Ubuntu"/>
+  <img src="https://img.icons8.com/color/48/000000/debian.png" alt="Debian"/>
+</p>
+
+---
 
 ### 📫 Connect with me
 
@@ -43,5 +52,8 @@
   <img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/>
 </a>
 
+---
+
 ## 📈 GitHub Stats
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=maazin-ahmed&show_icons=true&theme=radical)
