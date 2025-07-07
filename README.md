@@ -2,8 +2,8 @@
 
 🚀 DevOps Engineer & Full Stack Developer specializing in React, automation, and scalable solutions.
 
-- 🔭 I’m currently working on [Your Current Project]
-- 🌱 I’m learning [Tech/Skill]
+- 🔭 I’m currently working on **DevOps Automation Suite**
+- 🌱 I’m learning Terraform
 - 💬 Ask me about **DevOps, CI/CD, React, or Cloud**
 - ⚡ Fun fact: I love building tools that save people time!
 
