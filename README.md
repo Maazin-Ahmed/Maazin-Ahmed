@@ -48,7 +48,7 @@
 <a href="https://www.linkedin.com/in/maazin-ahmed-54117623a/" target="_blank">
   <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
 </a>
-<a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+<a href="https://twitter.com/MaazinAhmed7" target="_blank">
   <img align="center" src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter"/>
 </a>
 
