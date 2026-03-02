@@ -79,8 +79,8 @@ I'm a **DevOps Engineer** & **Full-Stack Developer** specializing in **Cloud Com
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox) 
 
-![Profile Views](https://komarev.com/ghpvc/?username=LondheShubham153&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/LondheShubham153?label=Follow&style=social)](https://github.com/LondheShubham153)
+![Profile Views](https://komarev.com/ghpvc/?username=Maazin-Ahmed&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/Maazin-Ahmed?label=Follow&style=social)](https://github.com/Maazin-Ahmed)
 
 </div>
 
@@ -88,6 +88,3 @@ I'm a **DevOps Engineer** & **Full-Stack Developer** specializing in **Cloud Com
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Maazin-Ahmed&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
