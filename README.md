@@ -16,7 +16,10 @@ I'm a **DevOps Engineer** & **Full-Stack Developer** specializing in **Cloud Com
 - ⚡ Fun fact: I combine **Development, DevOps, and Digital Marketing** to build and scale real-world products
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maazin.ahmedd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maazinahmed/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.maazin7@gmail.com) 
+[![Website](https://img.shields.io/badge/Website-maazinahmed.in-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.maazinahmed.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maazinahmed/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maazin.ahmedd/)
+[![Email](https://img.shields.io/badge/Email-ahmed.maazin7@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmed.maazin7@gmail.com)
 
 ## 🛠️ Tech Stack
 
