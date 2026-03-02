@@ -1,3 +1,8 @@
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Developer+Advocate;DevOps+%26+Platform+Engineering;8%2B+Years+Experience;Cloud+Architecture+Expert)](https://git.io/typing-svg)
+
+</div>
+
 # 💫 About Me:
 💻 I’m currently working on<br>Building scalable cloud-native applications, deploying projects on AWS, and experimenting with Docker-based microservices<br>🤝 I’m looking to collaborate on<br>DevOps projects, cloud architecture setups, automation pipelines, and real-world SaaS ideas<br>🧠 I’m looking for help with<br>Advanced DevOps practices, Kubernetes orchestration, and optimizing cloud infrastructure for production-scale systems<br>🌱 I’m currently learning<br>AWS architecture, CI/CD pipelines, container orchestration (Docker + Kubernetes), and system design<br>💬 Ask me about<br>DevOps, cloud deployment, backend systems, Google Ads, or how to turn ideas into working products<br>⚡ Fun fact<br>I’m a full-stack developer, DevOps engineer, and digital marketer<br>
 
