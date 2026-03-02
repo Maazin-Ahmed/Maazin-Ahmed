@@ -7,8 +7,13 @@
 </div>
 
 # 💫 About Me:
-💻 I’m currently working on<br>Building scalable cloud-native applications, deploying projects on AWS, and experimenting with Docker-based microservices<br>🤝 I’m looking to collaborate on<br>DevOps projects, cloud architecture setups, automation pipelines, and real-world SaaS ideas<br>🧠 I’m looking for help with<br>Advanced DevOps practices, Kubernetes orchestration, and optimizing cloud infrastructure for production-scale systems<br>🌱 I’m currently learning<br>AWS architecture, CI/CD pipelines, container orchestration (Docker + Kubernetes), and system design<br>💬 Ask me about<br>DevOps, cloud deployment, backend systems, Google Ads, or how to turn ideas into working products<br>⚡ Fun fact<br>I’m a full-stack developer, DevOps engineer, and digital marketer<br>
+I'm a **DevOps Engineer** & **Full-Stack Developer** specializing in **Cloud Computing, DevOps, and Backend Systems**. I focus on building **production-ready applications**, scalable cloud infrastructure, and automation-driven workflows that solve real-world problems.
 
+- 🔭 Currently working on **cloud-native applications**, **AWS deployments**, and **Docker-based microservices**
+- 🌱 Continuously learning **Kubernetes, System Design, and advanced DevOps practices**
+- 👯 Looking to collaborate on **DevOps projects**, **cloud infrastructure**, and **SaaS-based products**
+- 💬 Ask me about **DevOps, Cloud Deployment, Backend Development, and Performance Optimization**
+- ⚡ Fun fact: I combine **Development, DevOps, and Digital Marketing** to build and scale real-world products
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maazin.ahmedd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maazinahmed/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.maazin7@gmail.com) 
