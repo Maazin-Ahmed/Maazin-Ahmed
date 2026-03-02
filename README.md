@@ -65,7 +65,7 @@ I'm a **DevOps Engineer** & **Full-Stack Developer** specializing in **Cloud Com
 </div>
 
 ---
-# 📊 GitHub Stats:
+### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Maazin-Ahmed&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Maazin-Ahmed&theme=shadow_red&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maazin-Ahmed&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
