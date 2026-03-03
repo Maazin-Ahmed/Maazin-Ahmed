@@ -82,7 +82,7 @@ I'm a **DevOps Engineer** & **Full-Stack Developer** specializing in **Cloud Com
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Maazin-Ahmed&theme=shadow_red&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
   
-### ✍️ Random Dev Quote
+### ✍️ Piece of Mind
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox) 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Maazin-Ahmed&color=brightgreen&style=flat-square)
